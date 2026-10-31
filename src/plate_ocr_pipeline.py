@@ -28,7 +28,6 @@ OCR_LETTER_FIX = str.maketrans({
     ord("غ"): "ع",
     ord("ف"): "ق",
     ord("ة"): "ه",
-    ord("هـ"): "ه",
     ord("ھ"): "ه",
     ord("ؤ"): "و",
     ord("ي"): "ى",
